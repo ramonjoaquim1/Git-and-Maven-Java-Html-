@@ -22,4 +22,5 @@ Explore o código-fonte e os recursos disponíveis.
 Experimente as funcionalidades e seja feliz :D .
 
 Todas as pessoas do grupo abaixo de forma alfabética: 
+
 Barbara, Beatriz, Gustavo A., Julia, Isac, Maria, Josiel, Rafael e Ramon.
