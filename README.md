@@ -20,3 +20,6 @@ Clone este repositório em sua máquina local.
 Abra o projeto em sua IDE preferida, como o Spring Tool Suite.
 Explore o código-fonte e os recursos disponíveis.
 Experimente as funcionalidades e seja feliz :D .
+
+Todas as pessoas do grupo abaixo de forma alfabética: 
+Barbara, Beatriz, Gustavo A., Julia, Isac, Maria, Josiel, Rafael e Ramon.
