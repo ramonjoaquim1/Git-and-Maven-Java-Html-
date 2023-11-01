@@ -29,4 +29,5 @@ Como Utilizar:
     Execute o projeto e acesse a aplicação no seguinte endereço: http://localhost:8085/ProjectGitMaven/
 
  Pessoas do meu Grupo de forma alfabética:
+ 
  Barbara, Beatriz, Gustavo, Isac, Josiel, Julia, Maria, Rafael e Ramon.
